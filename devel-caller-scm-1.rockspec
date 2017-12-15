@@ -1,4 +1,4 @@
-package = 'devel.caller'
+package = 'devel-caller'
 version = 'scm-1'
 source  = {
     url    = 'git://github.com/moonlibs/devel-caller.git',
